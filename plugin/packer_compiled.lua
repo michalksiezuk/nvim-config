@@ -114,6 +114,11 @@ _G.packer_plugins = {
     path = "/Users/michal/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
   },
+  ["lightline.vim"] = {
+    loaded = true,
+    path = "/Users/michal/.local/share/nvim/site/pack/packer/start/lightline.vim",
+    url = "https://github.com/itchyny/lightline.vim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/Users/michal/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
