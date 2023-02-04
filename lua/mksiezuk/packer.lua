@@ -51,7 +51,10 @@ return require("packer").startup(function(use)
 
 	use { "williamboman/mason.nvim" }
 
-    use { "itchyny/lightline.vim" }
+    use {
+        "nvim-lualine/lualine.nvim",
+        requires = { "kyazdani42/nvim-web-devicons", opt = true }
+    }
 
 end)
 
