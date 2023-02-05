@@ -18,4 +18,3 @@ fi
 ln -s $(pwd) "$NVIM_CONFIG_DIR"
 
 echo "Done. Enjoy!"
-
