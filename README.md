@@ -8,20 +8,20 @@ This repository hosts my Neovim configuration.
 
 ##### Theme
 
-- folke/tokyonight.nvim
+- `folke/tokyonight.nvim`
 
 ##### Plugins
 
-- wbthomason/packer.nvim
-- nvim-telescope/telescope.nvim
-- nvim-treesitter/nvim-treesitter
-- nvim-treesitter/playground
-- theprimeagen/harpoon
-- mbbill/undotree
-- tpope/vim-fugitive
-- VonHeikemen/lsp-zero.nvim
-- williamboman/mason.nvim
-- nvim-lualine/lualine.nvim
+- `wbthomason/packer.nvim`
+- `nvim-telescope/telescope.nvim`
+- `nvim-treesitter/nvim-treesitter`
+- `nvim-treesitter/playground`
+- `theprimeagen/harpoon`
+- `mbbill/undotree`
+- `tpope/vim-fugitive`
+- `VonHeikemen/lsp-zero.nvim`
+- `williamboman/mason.nvim`
+- `nvim-lualine/lualine.nvim`
 
 #### Installation
 
