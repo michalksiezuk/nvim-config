@@ -27,5 +27,7 @@ This repository hosts my Neovim configuration.
 
 - Clone this repository
 - Run `./setup.sh`
-- Start Neovim
+- Start Neovim (you might get some warnings on the first run)
 - Profit!
+
+Shoutouts to @ThePrimeagen for inspiring me to finally improve my Vim setup :slightly_smiling_face:
