@@ -1,9 +1,7 @@
-local status_ok, configs = pcall(require, 'telescope.builtin')
-if not status_ok then
+local builtin_status_ok, builtin = pcall(require, "telescope.builtin")
+if not builtin_status_ok then
     return
 end
-
-local builtin = require("telescope.builtin")
 
 vim.keymap.set("n", "<leader>/", builtin.find_files, {})
 vim.keymap.set("n", "<leader>g", builtin.git_files, {})
