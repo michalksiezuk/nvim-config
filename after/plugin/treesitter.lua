@@ -4,7 +4,7 @@ if not configs_status_ok then
 end
 
 configs.setup {
-  ensure_installed = { "javascript", "typescript", "lua", "vim", "vimdoc" },
+  ensure_installed = { "javascript", "typescript", "lua", "markdown", "markdown_inline", "vim", "vimdoc" },
   sync_install = false,
   auto_install = true,
   highlight = {
